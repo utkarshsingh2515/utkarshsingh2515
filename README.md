@@ -19,7 +19,7 @@ I have finished Python and Machine Learning and I am currently diving deep into 
 <a href="mailto:us069496@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="www.linkedin.com/in/utkarsh-singh-247474296/">
+<a href="www.linkedin.com/in/utkarsh-singh-247474296">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
