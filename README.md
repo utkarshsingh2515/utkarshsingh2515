@@ -6,8 +6,7 @@
   <h3>👨‍💻 Hi there, I'm utkarsh!</h3>
 </div>
 
-I have finished Python and Machine Learning and I am currently diving deep into Neural Networks!
-
+- 🏆 I have finished Python, Machine Learning, Deep Learning, Neural networks and advance machine and deep learning algorithms
 - 🌱 I’m currently learning *Natural Language Processing and DSA with python*.
 - 👯 I’m looking to collaborate on *Open Source ML,DL and NLP projects & Kaggle Competitions*.
 - 🤔 I’m looking for help with *Optimization techniques in Deep Learning*.
@@ -43,7 +42,7 @@ I have finished Python and Machine Learning and I am currently diving deep into 
 <img src="https://img.shields.io/badge/Seaborn-9775fa?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-<br/>
+<br
 
 <img src="https://img.shields.io/badge/Deep%20Learning-FF0080?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Neural%20Networks-00C853?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -52,11 +51,13 @@ I have finished Python and Machine Learning and I am currently diving deep into 
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 
-<br/>
+<br
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<br/>
 
 </div>
 
