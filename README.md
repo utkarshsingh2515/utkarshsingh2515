@@ -18,7 +18,8 @@
 <a href="mailto:us069496@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://www.linkedin.com/in/utkarsh-singh-247474296/">
+
+<a href="https://www.linkedin.com/in/utkarsh-singh-247474296/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -65,14 +66,13 @@
 ---
 
 ### 📊 GitHub Analytics
+
 <div align="center">
 
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=utkarshsingh2515&theme=synthwave&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=utkarshsingh2515&show_icons=true&theme=synthwave" width="420"/>
 
 <br/><br/>
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=utkarshsingh2515&show_icons=true&theme=synthwave&hide_border=true"/>
-
-<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsingh2515&layout=compact&theme=synthwave&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsingh2515&layout=compact&theme=synthwave" width="360"/>
 
 </div>
