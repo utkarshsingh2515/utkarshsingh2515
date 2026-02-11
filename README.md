@@ -70,7 +70,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshsingh2515&theme=synthwave&hide_border=true" alt="GitHub Streak" />
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshsingh2515&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsingh2515&layout=compact&theme=synthwave&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
 </div>
