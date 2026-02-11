@@ -8,10 +8,10 @@
 
 I have finished Python and Machine Learning and I am currently diving deep into Neural Networks!
 
-- 🌱 I’m currently learning *Deep Learning (CNNs, RNNs)*.
-- 👯 I’m looking to collaborate on *Open Source ML projects & Kaggle Competitions*.
+- 🌱 I’m currently learning *Natural Language Processing and DSA with python*.
+- 👯 I’m looking to collaborate on *Open Source ML,DL and NLP projects & Kaggle Competitions*.
 - 🤔 I’m looking for help with *Optimization techniques in Deep Learning*.
-- 💬 Ask me about *Python, Regression/Classification, and Data Visualization*.
+- 💬 Ask me about *Python, Machine Learning, Deep Learning, Neural Netwoks and advance algorithms*.
 - 📫 *Reach me at:* [us069496@gmail.com](mailto:us069496@gmail.com)
 
 <div align="center">
@@ -34,8 +34,9 @@ I have finished Python and Machine Learning and I am currently diving deep into 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-<br/>
+<br
 
+<img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
@@ -44,6 +45,9 @@ I have finished Python and Machine Learning and I am currently diving deep into 
 
 <br/>
 
+<img src="https://img.shields.io/badge/Deep%20Learning-FF0080?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Neural%20Networks-00C853?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-2962FF?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
