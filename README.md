@@ -35,6 +35,9 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/Deep%20Learning-FF0080?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Neural%20Networks-00C853?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -44,8 +47,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Deep%20Learning-FF0080?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Neural%20Networks-00C853?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/NLP-2962FF?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
@@ -65,10 +66,13 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshsingh2515&theme=synthwave&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshsingh2515&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsingh2515&layout=compact&theme=synthwave&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=utkarshsingh2515&theme=synthwave&hide_border=true"/>
+
+<br/><br/>
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=utkarshsingh2515&show_icons=true&theme=synthwave&hide_border=true"/>
+
+<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsingh2515&layout=compact&theme=synthwave&hide_border=true"/>
+
 </div>
